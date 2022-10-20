@@ -1,0 +1,15 @@
+/Users/KatelynYaeger/Desktop/repos/Factory-Pattern-Exercise-2/FactoryPatternExercise2/bin/Debug/net6.0/FactoryPatternExercise2
+/Users/KatelynYaeger/Desktop/repos/Factory-Pattern-Exercise-2/FactoryPatternExercise2/bin/Debug/net6.0/FactoryPatternExercise2.deps.json
+/Users/KatelynYaeger/Desktop/repos/Factory-Pattern-Exercise-2/FactoryPatternExercise2/bin/Debug/net6.0/FactoryPatternExercise2.runtimeconfig.json
+/Users/KatelynYaeger/Desktop/repos/Factory-Pattern-Exercise-2/FactoryPatternExercise2/bin/Debug/net6.0/FactoryPatternExercise2.dll
+/Users/KatelynYaeger/Desktop/repos/Factory-Pattern-Exercise-2/FactoryPatternExercise2/bin/Debug/net6.0/FactoryPatternExercise2.pdb
+/Users/KatelynYaeger/Desktop/repos/Factory-Pattern-Exercise-2/FactoryPatternExercise2/obj/Debug/net6.0/FactoryPatternExercise2.csproj.AssemblyReference.cache
+/Users/KatelynYaeger/Desktop/repos/Factory-Pattern-Exercise-2/FactoryPatternExercise2/obj/Debug/net6.0/FactoryPatternExercise2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/KatelynYaeger/Desktop/repos/Factory-Pattern-Exercise-2/FactoryPatternExercise2/obj/Debug/net6.0/FactoryPatternExercise2.AssemblyInfoInputs.cache
+/Users/KatelynYaeger/Desktop/repos/Factory-Pattern-Exercise-2/FactoryPatternExercise2/obj/Debug/net6.0/FactoryPatternExercise2.AssemblyInfo.cs
+/Users/KatelynYaeger/Desktop/repos/Factory-Pattern-Exercise-2/FactoryPatternExercise2/obj/Debug/net6.0/FactoryPatternExercise2.csproj.CoreCompileInputs.cache
+/Users/KatelynYaeger/Desktop/repos/Factory-Pattern-Exercise-2/FactoryPatternExercise2/obj/Debug/net6.0/FactoryPatternExercise2.dll
+/Users/KatelynYaeger/Desktop/repos/Factory-Pattern-Exercise-2/FactoryPatternExercise2/obj/Debug/net6.0/refint/FactoryPatternExercise2.dll
+/Users/KatelynYaeger/Desktop/repos/Factory-Pattern-Exercise-2/FactoryPatternExercise2/obj/Debug/net6.0/FactoryPatternExercise2.pdb
+/Users/KatelynYaeger/Desktop/repos/Factory-Pattern-Exercise-2/FactoryPatternExercise2/obj/Debug/net6.0/FactoryPatternExercise2.genruntimeconfig.cache
+/Users/KatelynYaeger/Desktop/repos/Factory-Pattern-Exercise-2/FactoryPatternExercise2/obj/Debug/net6.0/ref/FactoryPatternExercise2.dll
